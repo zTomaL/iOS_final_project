@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		9FF5E9A61E6FA46A00018B63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF5E9A51E6FA46A00018B63 /* AppDelegate.swift */; };
 		9FF5E9A81E6FA46A00018B63 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF5E9A71E6FA46A00018B63 /* ViewController.swift */; };
-		9FF5E9AB1E6FA46A00018B63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FF5E9A91E6FA46A00018B63 /* Main.storyboard */; };
+		9FF5E9AB1E6FA46A00018B63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FF5E9A91E6FA46A00018B63 /* Main.storyboard */; settings = {ASSET_TAGS = (12, ); }; };
 		9FF5E9AD1E6FA46A00018B63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FF5E9AC1E6FA46A00018B63 /* Assets.xcassets */; };
 		9FF5E9B01E6FA46A00018B63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FF5E9AE1E6FA46A00018B63 /* LaunchScreen.storyboard */; };
 		9FF5E9BB1E6FA46A00018B63 /* iosclassweek03Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF5E9BA1E6FA46A00018B63 /* iosclassweek03Tests.swift */; };
@@ -187,6 +187,9 @@
 		9FF5E99A1E6FA46A00018B63 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					12,
+				);
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "YEN JUILEE";
@@ -503,6 +506,7 @@
 				9FF5E9CC1E6FA46A00018B63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FF5E9CD1E6FA46A00018B63 /* Build configuration list for PBXNativeTarget "iosclassweek03Tests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +515,7 @@
 				9FF5E9CF1E6FA46A00018B63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FF5E9D01E6FA46A00018B63 /* Build configuration list for PBXNativeTarget "iosclassweek03UITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +524,7 @@
 				9FF5E9D21E6FA46A00018B63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
