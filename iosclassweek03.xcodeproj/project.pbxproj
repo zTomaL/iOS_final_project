@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F088C771EF9257C00FF1355 /* PicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F088C761EF9257C00FF1355 /* PicViewController.swift */; };
+		9F088C791EF9269F00FF1355 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F088C781EF9269F00FF1355 /* TabBarController.swift */; };
+		9F088C7B1EF92B7B00FF1355 /* textViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F088C7A1EF92B7B00FF1355 /* textViewController.swift */; };
+		9F088C7E1EF931BA00FF1355 /* QuiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F088C7D1EF931BA00FF1355 /* QuiTableViewController.swift */; };
+		9F088C801EF943CE00FF1355 /* QuickTabController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F088C7F1EF943CE00FF1355 /* QuickTabController.swift */; };
+		9F088C821EF9441000FF1355 /* QuickPicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F088C811EF9441000FF1355 /* QuickPicViewController.swift */; };
+		9F088C841EF9448000FF1355 /* QuickTextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F088C831EF9448000FF1355 /* QuickTextViewController.swift */; };
+		9F2495791EEFFC0800F8F77F /* TableViewController_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2495781EEFFC0800F8F77F /* TableViewController_1.swift */; };
 		9FF5E9A61E6FA46A00018B63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF5E9A51E6FA46A00018B63 /* AppDelegate.swift */; };
 		9FF5E9A81E6FA46A00018B63 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF5E9A71E6FA46A00018B63 /* ViewController.swift */; };
 		9FF5E9AB1E6FA46A00018B63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FF5E9A91E6FA46A00018B63 /* Main.storyboard */; settings = {ASSET_TAGS = (12, ); }; };
@@ -34,6 +42,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F088C761EF9257C00FF1355 /* PicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PicViewController.swift; sourceTree = "<group>"; };
+		9F088C781EF9269F00FF1355 /* TabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		9F088C7A1EF92B7B00FF1355 /* textViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = textViewController.swift; sourceTree = "<group>"; };
+		9F088C7D1EF931BA00FF1355 /* QuiTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuiTableViewController.swift; sourceTree = "<group>"; };
+		9F088C7F1EF943CE00FF1355 /* QuickTabController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuickTabController.swift; sourceTree = "<group>"; };
+		9F088C811EF9441000FF1355 /* QuickPicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuickPicViewController.swift; sourceTree = "<group>"; };
+		9F088C831EF9448000FF1355 /* QuickTextViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuickTextViewController.swift; sourceTree = "<group>"; };
+		9F2495781EEFFC0800F8F77F /* TableViewController_1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController_1.swift; sourceTree = "<group>"; };
 		9FF5E9A21E6FA46A00018B63 /* iosclassweek03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosclassweek03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FF5E9A51E6FA46A00018B63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9FF5E9A71E6FA46A00018B63 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +116,14 @@
 				9FF5E9A51E6FA46A00018B63 /* AppDelegate.swift */,
 				9FF5E9A71E6FA46A00018B63 /* ViewController.swift */,
 				9FF5E9A91E6FA46A00018B63 /* Main.storyboard */,
+				9F088C831EF9448000FF1355 /* QuickTextViewController.swift */,
+				9F088C811EF9441000FF1355 /* QuickPicViewController.swift */,
+				9F088C7F1EF943CE00FF1355 /* QuickTabController.swift */,
+				9F088C7D1EF931BA00FF1355 /* QuiTableViewController.swift */,
+				9F088C781EF9269F00FF1355 /* TabBarController.swift */,
+				9F088C7A1EF92B7B00FF1355 /* textViewController.swift */,
+				9F2495781EEFFC0800F8F77F /* TableViewController_1.swift */,
+				9F088C761EF9257C00FF1355 /* PicViewController.swift */,
 				9FF5E9AC1E6FA46A00018B63 /* Assets.xcassets */,
 				9FF5E9AE1E6FA46A00018B63 /* LaunchScreen.storyboard */,
 				9FF5E9B11E6FA46A00018B63 /* Info.plist */,
@@ -262,8 +286,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F2495791EEFFC0800F8F77F /* TableViewController_1.swift in Sources */,
+				9F088C771EF9257C00FF1355 /* PicViewController.swift in Sources */,
 				9FF5E9A81E6FA46A00018B63 /* ViewController.swift in Sources */,
+				9F088C801EF943CE00FF1355 /* QuickTabController.swift in Sources */,
+				9F088C7B1EF92B7B00FF1355 /* textViewController.swift in Sources */,
+				9F088C841EF9448000FF1355 /* QuickTextViewController.swift in Sources */,
+				9F088C821EF9441000FF1355 /* QuickPicViewController.swift in Sources */,
+				9F088C791EF9269F00FF1355 /* TabBarController.swift in Sources */,
 				9FF5E9A61E6FA46A00018B63 /* AppDelegate.swift in Sources */,
+				9F088C7E1EF931BA00FF1355 /* QuiTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
